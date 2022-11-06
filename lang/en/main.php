@@ -34,7 +34,9 @@ return [
 
     'footer_made_with' => 'made with',
     'footer_by' => 'by',
-    'footer_name' => 'Ananta Ram das (Oleksandr Popov)',
+    'footer_idea_name' => 'Deva Damodara das (Dmytro Khyzhyi)',
+    'footer_and' => 'and',
+    'footer_coder_name' => 'Ananta Ram das (Oleksandr Popov)',
     'footer_for' => 'for a better world',
 
     'controller_gayatri_sandhya' => 'Gayatri sandhya',

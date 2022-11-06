@@ -352,8 +352,8 @@
                         © <script>
                             document.write(new Date().getFullYear())
                         </script>,
-                        {{ __('main.footer_made_with') }} <i class="fa fa-heart" style="color: red" aria-hidden="true"></i> {{ __('main.footer_by') }}
-                        <a href="https://popov.in" class="font-weight-bold text-white" target="_blank">{{ __('main.footer_name') }}</a>,
+                        {{ __('main.footer_made_with') }} <i class="fa fa-heart" style="color: red" aria-hidden="true"></i> {{ __('main.footer_by') }} {{ __('main.footer_idea_name') }} {{ __('main.footer_and') }}
+                        <a href="https://popov.in" class="font-weight-bold text-white" target="_blank">{{ __('main.footer_coder_name') }}</a>,
                         {{ __('main.footer_for') }}
                     </div>
                 </div>

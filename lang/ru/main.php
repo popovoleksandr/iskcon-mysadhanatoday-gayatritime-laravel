@@ -34,7 +34,9 @@ return [
 
     'footer_made_with' => 'сделано с',
     'footer_by' => '',
-    'footer_name' => 'Ананта Рам дасом (Александром Поповым)',
+    'footer_idea_name' => 'Дева Дамодара дасом (Дмитрий Хижий)',
+    'footer_and' => 'и',
+    'footer_coder_name' => 'Ананта Рам дасом (Александром Поповым)',
     'footer_for' => 'что бы сделать этот мир лучшим',
 
     'controller_gayatri_sandhya' => 'Гаятри сандхья',
