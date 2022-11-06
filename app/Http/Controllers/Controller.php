@@ -171,6 +171,8 @@ class Controller extends BaseController
             ->startsAt($start)
             ->endsAt($end)
             ->uniqueIdentifier($uuid)
-            ->alertMinutesBefore($remindBeforeMinutes);
+            ->alertMinutesBefore($remindBeforeMinutes,  __('main.alert_message_before', ['name' => $name, 'duration'=> $remindBeforeMinutes]) )
+            ->alertAt($start, __('main.alert_message_started', ['name' => $name]))
+            ->alertAt($end, __('main.alert_message_ended', ['name' => $name]));
     }
 }

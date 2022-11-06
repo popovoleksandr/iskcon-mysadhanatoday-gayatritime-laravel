@@ -40,4 +40,8 @@ return [
     'controller_gayatri_sandhya' => 'Gayatri sandhya',
     'controller_savitri_sandhya' => 'Savitri sandhya',
     'controller_sarasvati_sandhya' => 'Sarasvati sandhya',
+
+    'alert_message_before' => ':Name will start in :duration minutes',
+    'alert_message_started' => ':Name started',
+    'alert_message_ended' => ':Name ended',
 ];

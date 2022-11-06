@@ -40,4 +40,8 @@ return [
     'controller_gayatri_sandhya' => 'Гаятри сандхья',
     'controller_savitri_sandhya' => 'Самитри сандхья',
     'controller_sarasvati_sandhya' => 'Сарасвати сандхья',
+
+    'alert_message_before' => ':Name начнётся через :duration минут',
+    'alert_message_started' => ':Name началась',
+    'alert_message_ended' => ':Name закончилась',
 ];
